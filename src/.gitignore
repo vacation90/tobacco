@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+/node_modules
+.DS_Store
+backend/api/migrations/
+backend/venv
+backend/alembic/versions/*
+*.jpg
